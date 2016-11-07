@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/IndecipherableSuggestions/IndecipherableSuggestions.png?label=ready&title=Ready)](https://waffle.io/IndecipherableSuggestions/IndecipherableSuggestions)
-# RoadTrip Mood Music
+# RoadTripify
 
 ## Team
 
