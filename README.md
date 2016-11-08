@@ -82,7 +82,7 @@ node server/db/populateMoodDB.js
 
 ### Roadmap
 
-View the project roadmap [here](https://github.com/IndecipherableSuggestions/IndecipherableSuggestions/issues)
+View the project roadmap [here](https://github.com/IndecipherableSuggestions/RoadTripify/issues)
 
 
 ## Contributing
