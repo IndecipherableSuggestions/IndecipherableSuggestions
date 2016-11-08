@@ -35,17 +35,17 @@
 - Node.js
 
 ## Dependencies
--Passport
--Mongoose
+- Passport
+- Mongoose
 
 ## Development Dependencies
 
--Babel
--Chai
--Gulb
--Mocha
--Nodemon
--Webpack
+- Babel
+- Chai
+- Gulb
+- Mocha
+- Nodemon
+- Webpack
 
 ## Development
 
