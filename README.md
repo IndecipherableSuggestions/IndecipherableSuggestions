@@ -9,6 +9,7 @@
 
 ## Table of Contents
 
+1. [Screenshots](#Screenshots)
 1. [Usage](#Usage)
 1. [Requirements](#requirements)
 1. [Development](#development)
@@ -16,6 +17,11 @@
     1. [Tasks](#tasks)
 1. [Team](#team)
 1. [Contributing](#contributing)
+
+## Screenshots
+
+![Alt text](/src/img/search.png?raw=true)
+![Alt text](/src/img/history.png?raw=true)
 
 ## Usage
 
